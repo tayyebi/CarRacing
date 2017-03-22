@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1482524456 source:c:\users\admin\documents\codeblocks\test4\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<ctime>
+	<cstdlib>
+
+1483267511 source:c:\projects\khodabakhshi\test4\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<ctime>
+	<string>
+	<cstdlib>
+	<sstream>
+
